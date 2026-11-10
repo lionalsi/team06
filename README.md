@@ -2,6 +2,7 @@
 프로젝트 소개 : 방한 외국인 비율과 방문 목적은 무엇일까.
 
 실행방법
+
 로컬 환경의 터미널(Terminal)에서 아래 명령어를 순서대로 실행합니다.
 pip install streamlit folium
 streamlit run app.py
