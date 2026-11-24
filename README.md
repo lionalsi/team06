@@ -10,6 +10,12 @@ streamlit run app.py
 사용 라이브러리
 streamlit folium
 
+<img width="1866" height="885" alt="image" src="https://github.com/user-attachments/assets/5d0f8b9e-f82b-4cec-9bda-cf0d788a071c" />
+방문 외국인 수CSV파일과 방문 외국인 목적CSV파일을 업로드 합니다.
+
+
 앱 실행 화면 캡쳐 이미지
-<img width="1911" height="895" alt="image" src="https://github.com/user-attachments/assets/1d8a14ee-e95b-4908-af9d-7f4a5ddd155e" />
-<img width="1868" height="746" alt="image" src="https://github.com/user-attachments/assets/9dd6d82c-d625-413d-92a3-85c1b4108306" />
+<img width="1775" height="665" alt="image" src="https://github.com/user-attachments/assets/32cc79d8-fd71-4df6-a673-8df047a75edd" />
+<img width="1793" height="685" alt="image" src="https://github.com/user-attachments/assets/51834e5e-2186-4a42-9fbb-ee8a8c9eb75c" />
+<img width="1754" height="615" alt="image" src="https://github.com/user-attachments/assets/53493eb9-52a4-40eb-975f-f4f54b400e34" />
+
